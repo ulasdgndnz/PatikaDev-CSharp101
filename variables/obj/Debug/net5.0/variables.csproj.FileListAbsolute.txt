@@ -1,0 +1,16 @@
+D:\Csharp Projects\Patika-csharp101\variables\obj\Debug\net5.0\variables.csproj.AssemblyReference.cache
+D:\Csharp Projects\Patika-csharp101\variables\obj\Debug\net5.0\variables.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp Projects\Patika-csharp101\variables\obj\Debug\net5.0\variables.AssemblyInfoInputs.cache
+D:\Csharp Projects\Patika-csharp101\variables\obj\Debug\net5.0\variables.AssemblyInfo.cs
+D:\Csharp Projects\Patika-csharp101\variables\obj\Debug\net5.0\variables.csproj.CoreCompileInputs.cache
+D:\Csharp Projects\Patika-csharp101\variables\bin\Debug\net5.0\variables.exe
+D:\Csharp Projects\Patika-csharp101\variables\bin\Debug\net5.0\variables.deps.json
+D:\Csharp Projects\Patika-csharp101\variables\bin\Debug\net5.0\variables.runtimeconfig.json
+D:\Csharp Projects\Patika-csharp101\variables\bin\Debug\net5.0\variables.runtimeconfig.dev.json
+D:\Csharp Projects\Patika-csharp101\variables\bin\Debug\net5.0\variables.dll
+D:\Csharp Projects\Patika-csharp101\variables\bin\Debug\net5.0\ref\variables.dll
+D:\Csharp Projects\Patika-csharp101\variables\bin\Debug\net5.0\variables.pdb
+D:\Csharp Projects\Patika-csharp101\variables\obj\Debug\net5.0\variables.dll
+D:\Csharp Projects\Patika-csharp101\variables\obj\Debug\net5.0\ref\variables.dll
+D:\Csharp Projects\Patika-csharp101\variables\obj\Debug\net5.0\variables.pdb
+D:\Csharp Projects\Patika-csharp101\variables\obj\Debug\net5.0\variables.genruntimeconfig.cache
