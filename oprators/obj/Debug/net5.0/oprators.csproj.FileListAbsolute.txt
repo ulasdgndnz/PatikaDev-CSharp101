@@ -1,0 +1,16 @@
+D:\Csharp Projects\Patika-csharp101\oprators\bin\Debug\net5.0\oprators.exe
+D:\Csharp Projects\Patika-csharp101\oprators\bin\Debug\net5.0\oprators.deps.json
+D:\Csharp Projects\Patika-csharp101\oprators\bin\Debug\net5.0\oprators.runtimeconfig.json
+D:\Csharp Projects\Patika-csharp101\oprators\bin\Debug\net5.0\oprators.runtimeconfig.dev.json
+D:\Csharp Projects\Patika-csharp101\oprators\bin\Debug\net5.0\oprators.dll
+D:\Csharp Projects\Patika-csharp101\oprators\bin\Debug\net5.0\ref\oprators.dll
+D:\Csharp Projects\Patika-csharp101\oprators\bin\Debug\net5.0\oprators.pdb
+D:\Csharp Projects\Patika-csharp101\oprators\obj\Debug\net5.0\oprators.csproj.AssemblyReference.cache
+D:\Csharp Projects\Patika-csharp101\oprators\obj\Debug\net5.0\oprators.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp Projects\Patika-csharp101\oprators\obj\Debug\net5.0\oprators.AssemblyInfoInputs.cache
+D:\Csharp Projects\Patika-csharp101\oprators\obj\Debug\net5.0\oprators.AssemblyInfo.cs
+D:\Csharp Projects\Patika-csharp101\oprators\obj\Debug\net5.0\oprators.csproj.CoreCompileInputs.cache
+D:\Csharp Projects\Patika-csharp101\oprators\obj\Debug\net5.0\oprators.dll
+D:\Csharp Projects\Patika-csharp101\oprators\obj\Debug\net5.0\ref\oprators.dll
+D:\Csharp Projects\Patika-csharp101\oprators\obj\Debug\net5.0\oprators.pdb
+D:\Csharp Projects\Patika-csharp101\oprators\obj\Debug\net5.0\oprators.genruntimeconfig.cache
