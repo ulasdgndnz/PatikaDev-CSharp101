@@ -1,0 +1,16 @@
+D:\Csharp Projects\Patika-csharp101\try-catch-finally\bin\Debug\net5.0\try-catch-finally.exe
+D:\Csharp Projects\Patika-csharp101\try-catch-finally\bin\Debug\net5.0\try-catch-finally.deps.json
+D:\Csharp Projects\Patika-csharp101\try-catch-finally\bin\Debug\net5.0\try-catch-finally.runtimeconfig.json
+D:\Csharp Projects\Patika-csharp101\try-catch-finally\bin\Debug\net5.0\try-catch-finally.runtimeconfig.dev.json
+D:\Csharp Projects\Patika-csharp101\try-catch-finally\bin\Debug\net5.0\try-catch-finally.dll
+D:\Csharp Projects\Patika-csharp101\try-catch-finally\bin\Debug\net5.0\ref\try-catch-finally.dll
+D:\Csharp Projects\Patika-csharp101\try-catch-finally\bin\Debug\net5.0\try-catch-finally.pdb
+D:\Csharp Projects\Patika-csharp101\try-catch-finally\obj\Debug\net5.0\try-catch-finally.csproj.AssemblyReference.cache
+D:\Csharp Projects\Patika-csharp101\try-catch-finally\obj\Debug\net5.0\try-catch-finally.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp Projects\Patika-csharp101\try-catch-finally\obj\Debug\net5.0\try-catch-finally.AssemblyInfoInputs.cache
+D:\Csharp Projects\Patika-csharp101\try-catch-finally\obj\Debug\net5.0\try-catch-finally.AssemblyInfo.cs
+D:\Csharp Projects\Patika-csharp101\try-catch-finally\obj\Debug\net5.0\try-catch-finally.csproj.CoreCompileInputs.cache
+D:\Csharp Projects\Patika-csharp101\try-catch-finally\obj\Debug\net5.0\try-catch-finally.dll
+D:\Csharp Projects\Patika-csharp101\try-catch-finally\obj\Debug\net5.0\ref\try-catch-finally.dll
+D:\Csharp Projects\Patika-csharp101\try-catch-finally\obj\Debug\net5.0\try-catch-finally.pdb
+D:\Csharp Projects\Patika-csharp101\try-catch-finally\obj\Debug\net5.0\try-catch-finally.genruntimeconfig.cache
