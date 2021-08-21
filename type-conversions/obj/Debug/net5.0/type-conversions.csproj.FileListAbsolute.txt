@@ -1,0 +1,16 @@
+D:\Csharp Projects\Patika-csharp101\type-conversions\bin\Debug\net5.0\type-conversions.exe
+D:\Csharp Projects\Patika-csharp101\type-conversions\bin\Debug\net5.0\type-conversions.deps.json
+D:\Csharp Projects\Patika-csharp101\type-conversions\bin\Debug\net5.0\type-conversions.runtimeconfig.json
+D:\Csharp Projects\Patika-csharp101\type-conversions\bin\Debug\net5.0\type-conversions.runtimeconfig.dev.json
+D:\Csharp Projects\Patika-csharp101\type-conversions\bin\Debug\net5.0\type-conversions.dll
+D:\Csharp Projects\Patika-csharp101\type-conversions\bin\Debug\net5.0\ref\type-conversions.dll
+D:\Csharp Projects\Patika-csharp101\type-conversions\bin\Debug\net5.0\type-conversions.pdb
+D:\Csharp Projects\Patika-csharp101\type-conversions\obj\Debug\net5.0\type-conversions.csproj.AssemblyReference.cache
+D:\Csharp Projects\Patika-csharp101\type-conversions\obj\Debug\net5.0\type-conversions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp Projects\Patika-csharp101\type-conversions\obj\Debug\net5.0\type-conversions.AssemblyInfoInputs.cache
+D:\Csharp Projects\Patika-csharp101\type-conversions\obj\Debug\net5.0\type-conversions.AssemblyInfo.cs
+D:\Csharp Projects\Patika-csharp101\type-conversions\obj\Debug\net5.0\type-conversions.csproj.CoreCompileInputs.cache
+D:\Csharp Projects\Patika-csharp101\type-conversions\obj\Debug\net5.0\type-conversions.dll
+D:\Csharp Projects\Patika-csharp101\type-conversions\obj\Debug\net5.0\ref\type-conversions.dll
+D:\Csharp Projects\Patika-csharp101\type-conversions\obj\Debug\net5.0\type-conversions.pdb
+D:\Csharp Projects\Patika-csharp101\type-conversions\obj\Debug\net5.0\type-conversions.genruntimeconfig.cache
