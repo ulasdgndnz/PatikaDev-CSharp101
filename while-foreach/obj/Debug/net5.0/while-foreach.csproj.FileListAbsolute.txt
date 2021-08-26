@@ -1,0 +1,16 @@
+D:\Csharp Projects\while-foreach\bin\Debug\net5.0\while-foreach.exe
+D:\Csharp Projects\while-foreach\bin\Debug\net5.0\while-foreach.deps.json
+D:\Csharp Projects\while-foreach\bin\Debug\net5.0\while-foreach.runtimeconfig.json
+D:\Csharp Projects\while-foreach\bin\Debug\net5.0\while-foreach.runtimeconfig.dev.json
+D:\Csharp Projects\while-foreach\bin\Debug\net5.0\while-foreach.dll
+D:\Csharp Projects\while-foreach\bin\Debug\net5.0\ref\while-foreach.dll
+D:\Csharp Projects\while-foreach\bin\Debug\net5.0\while-foreach.pdb
+D:\Csharp Projects\while-foreach\obj\Debug\net5.0\while-foreach.csproj.AssemblyReference.cache
+D:\Csharp Projects\while-foreach\obj\Debug\net5.0\while-foreach.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp Projects\while-foreach\obj\Debug\net5.0\while-foreach.AssemblyInfoInputs.cache
+D:\Csharp Projects\while-foreach\obj\Debug\net5.0\while-foreach.AssemblyInfo.cs
+D:\Csharp Projects\while-foreach\obj\Debug\net5.0\while-foreach.csproj.CoreCompileInputs.cache
+D:\Csharp Projects\while-foreach\obj\Debug\net5.0\while-foreach.dll
+D:\Csharp Projects\while-foreach\obj\Debug\net5.0\ref\while-foreach.dll
+D:\Csharp Projects\while-foreach\obj\Debug\net5.0\while-foreach.pdb
+D:\Csharp Projects\while-foreach\obj\Debug\net5.0\while-foreach.genruntimeconfig.cache
