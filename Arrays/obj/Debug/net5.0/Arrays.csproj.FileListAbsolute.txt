@@ -1,0 +1,16 @@
+D:\Csharp Projects\Patika-csharp101\Arrays\bin\Debug\net5.0\Arrays.exe
+D:\Csharp Projects\Patika-csharp101\Arrays\bin\Debug\net5.0\Arrays.deps.json
+D:\Csharp Projects\Patika-csharp101\Arrays\bin\Debug\net5.0\Arrays.runtimeconfig.json
+D:\Csharp Projects\Patika-csharp101\Arrays\bin\Debug\net5.0\Arrays.runtimeconfig.dev.json
+D:\Csharp Projects\Patika-csharp101\Arrays\bin\Debug\net5.0\Arrays.dll
+D:\Csharp Projects\Patika-csharp101\Arrays\bin\Debug\net5.0\ref\Arrays.dll
+D:\Csharp Projects\Patika-csharp101\Arrays\bin\Debug\net5.0\Arrays.pdb
+D:\Csharp Projects\Patika-csharp101\Arrays\obj\Debug\net5.0\Arrays.csproj.AssemblyReference.cache
+D:\Csharp Projects\Patika-csharp101\Arrays\obj\Debug\net5.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp Projects\Patika-csharp101\Arrays\obj\Debug\net5.0\Arrays.AssemblyInfoInputs.cache
+D:\Csharp Projects\Patika-csharp101\Arrays\obj\Debug\net5.0\Arrays.AssemblyInfo.cs
+D:\Csharp Projects\Patika-csharp101\Arrays\obj\Debug\net5.0\Arrays.csproj.CoreCompileInputs.cache
+D:\Csharp Projects\Patika-csharp101\Arrays\obj\Debug\net5.0\Arrays.dll
+D:\Csharp Projects\Patika-csharp101\Arrays\obj\Debug\net5.0\ref\Arrays.dll
+D:\Csharp Projects\Patika-csharp101\Arrays\obj\Debug\net5.0\Arrays.pdb
+D:\Csharp Projects\Patika-csharp101\Arrays\obj\Debug\net5.0\Arrays.genruntimeconfig.cache
