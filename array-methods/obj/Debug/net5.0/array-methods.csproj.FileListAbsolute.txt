@@ -1,0 +1,16 @@
+D:\Csharp Projects\Patika-csharp101\array-methods\bin\Debug\net5.0\array-methods.exe
+D:\Csharp Projects\Patika-csharp101\array-methods\bin\Debug\net5.0\array-methods.deps.json
+D:\Csharp Projects\Patika-csharp101\array-methods\bin\Debug\net5.0\array-methods.runtimeconfig.json
+D:\Csharp Projects\Patika-csharp101\array-methods\bin\Debug\net5.0\array-methods.runtimeconfig.dev.json
+D:\Csharp Projects\Patika-csharp101\array-methods\bin\Debug\net5.0\array-methods.dll
+D:\Csharp Projects\Patika-csharp101\array-methods\bin\Debug\net5.0\ref\array-methods.dll
+D:\Csharp Projects\Patika-csharp101\array-methods\bin\Debug\net5.0\array-methods.pdb
+D:\Csharp Projects\Patika-csharp101\array-methods\obj\Debug\net5.0\array-methods.csproj.AssemblyReference.cache
+D:\Csharp Projects\Patika-csharp101\array-methods\obj\Debug\net5.0\array-methods.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp Projects\Patika-csharp101\array-methods\obj\Debug\net5.0\array-methods.AssemblyInfoInputs.cache
+D:\Csharp Projects\Patika-csharp101\array-methods\obj\Debug\net5.0\array-methods.AssemblyInfo.cs
+D:\Csharp Projects\Patika-csharp101\array-methods\obj\Debug\net5.0\array-methods.csproj.CoreCompileInputs.cache
+D:\Csharp Projects\Patika-csharp101\array-methods\obj\Debug\net5.0\array-methods.dll
+D:\Csharp Projects\Patika-csharp101\array-methods\obj\Debug\net5.0\ref\array-methods.dll
+D:\Csharp Projects\Patika-csharp101\array-methods\obj\Debug\net5.0\array-methods.pdb
+D:\Csharp Projects\Patika-csharp101\array-methods\obj\Debug\net5.0\array-methods.genruntimeconfig.cache
