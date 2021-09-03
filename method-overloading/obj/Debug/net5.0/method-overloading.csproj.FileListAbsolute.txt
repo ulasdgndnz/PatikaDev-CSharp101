@@ -1,0 +1,16 @@
+D:\Csharp Projects\Patika-csharp101\method-overloading\bin\Debug\net5.0\method-overloading.exe
+D:\Csharp Projects\Patika-csharp101\method-overloading\bin\Debug\net5.0\method-overloading.deps.json
+D:\Csharp Projects\Patika-csharp101\method-overloading\bin\Debug\net5.0\method-overloading.runtimeconfig.json
+D:\Csharp Projects\Patika-csharp101\method-overloading\bin\Debug\net5.0\method-overloading.runtimeconfig.dev.json
+D:\Csharp Projects\Patika-csharp101\method-overloading\bin\Debug\net5.0\method-overloading.dll
+D:\Csharp Projects\Patika-csharp101\method-overloading\bin\Debug\net5.0\ref\method-overloading.dll
+D:\Csharp Projects\Patika-csharp101\method-overloading\bin\Debug\net5.0\method-overloading.pdb
+D:\Csharp Projects\Patika-csharp101\method-overloading\obj\Debug\net5.0\method-overloading.csproj.AssemblyReference.cache
+D:\Csharp Projects\Patika-csharp101\method-overloading\obj\Debug\net5.0\method-overloading.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp Projects\Patika-csharp101\method-overloading\obj\Debug\net5.0\method-overloading.AssemblyInfoInputs.cache
+D:\Csharp Projects\Patika-csharp101\method-overloading\obj\Debug\net5.0\method-overloading.AssemblyInfo.cs
+D:\Csharp Projects\Patika-csharp101\method-overloading\obj\Debug\net5.0\method-overloading.csproj.CoreCompileInputs.cache
+D:\Csharp Projects\Patika-csharp101\method-overloading\obj\Debug\net5.0\method-overloading.dll
+D:\Csharp Projects\Patika-csharp101\method-overloading\obj\Debug\net5.0\ref\method-overloading.dll
+D:\Csharp Projects\Patika-csharp101\method-overloading\obj\Debug\net5.0\method-overloading.pdb
+D:\Csharp Projects\Patika-csharp101\method-overloading\obj\Debug\net5.0\method-overloading.genruntimeconfig.cache
