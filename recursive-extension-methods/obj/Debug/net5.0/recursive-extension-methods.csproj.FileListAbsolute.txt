@@ -1,0 +1,16 @@
+D:\Csharp Projects\Patika-csharp101\recursive-extension-methods\bin\Debug\net5.0\recursive-extension-methods.exe
+D:\Csharp Projects\Patika-csharp101\recursive-extension-methods\bin\Debug\net5.0\recursive-extension-methods.deps.json
+D:\Csharp Projects\Patika-csharp101\recursive-extension-methods\bin\Debug\net5.0\recursive-extension-methods.runtimeconfig.json
+D:\Csharp Projects\Patika-csharp101\recursive-extension-methods\bin\Debug\net5.0\recursive-extension-methods.runtimeconfig.dev.json
+D:\Csharp Projects\Patika-csharp101\recursive-extension-methods\bin\Debug\net5.0\recursive-extension-methods.dll
+D:\Csharp Projects\Patika-csharp101\recursive-extension-methods\bin\Debug\net5.0\ref\recursive-extension-methods.dll
+D:\Csharp Projects\Patika-csharp101\recursive-extension-methods\bin\Debug\net5.0\recursive-extension-methods.pdb
+D:\Csharp Projects\Patika-csharp101\recursive-extension-methods\obj\Debug\net5.0\recursive-extension-methods.csproj.AssemblyReference.cache
+D:\Csharp Projects\Patika-csharp101\recursive-extension-methods\obj\Debug\net5.0\recursive-extension-methods.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp Projects\Patika-csharp101\recursive-extension-methods\obj\Debug\net5.0\recursive-extension-methods.AssemblyInfoInputs.cache
+D:\Csharp Projects\Patika-csharp101\recursive-extension-methods\obj\Debug\net5.0\recursive-extension-methods.AssemblyInfo.cs
+D:\Csharp Projects\Patika-csharp101\recursive-extension-methods\obj\Debug\net5.0\recursive-extension-methods.csproj.CoreCompileInputs.cache
+D:\Csharp Projects\Patika-csharp101\recursive-extension-methods\obj\Debug\net5.0\recursive-extension-methods.dll
+D:\Csharp Projects\Patika-csharp101\recursive-extension-methods\obj\Debug\net5.0\ref\recursive-extension-methods.dll
+D:\Csharp Projects\Patika-csharp101\recursive-extension-methods\obj\Debug\net5.0\recursive-extension-methods.pdb
+D:\Csharp Projects\Patika-csharp101\recursive-extension-methods\obj\Debug\net5.0\recursive-extension-methods.genruntimeconfig.cache
