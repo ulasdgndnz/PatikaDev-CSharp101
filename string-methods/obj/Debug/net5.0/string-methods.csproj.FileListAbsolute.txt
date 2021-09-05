@@ -1,0 +1,16 @@
+D:\Csharp Projects\Patika-csharp101\string-methods\bin\Debug\net5.0\string-methods.exe
+D:\Csharp Projects\Patika-csharp101\string-methods\bin\Debug\net5.0\string-methods.deps.json
+D:\Csharp Projects\Patika-csharp101\string-methods\bin\Debug\net5.0\string-methods.runtimeconfig.json
+D:\Csharp Projects\Patika-csharp101\string-methods\bin\Debug\net5.0\string-methods.runtimeconfig.dev.json
+D:\Csharp Projects\Patika-csharp101\string-methods\bin\Debug\net5.0\string-methods.dll
+D:\Csharp Projects\Patika-csharp101\string-methods\bin\Debug\net5.0\ref\string-methods.dll
+D:\Csharp Projects\Patika-csharp101\string-methods\bin\Debug\net5.0\string-methods.pdb
+D:\Csharp Projects\Patika-csharp101\string-methods\obj\Debug\net5.0\string-methods.csproj.AssemblyReference.cache
+D:\Csharp Projects\Patika-csharp101\string-methods\obj\Debug\net5.0\string-methods.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp Projects\Patika-csharp101\string-methods\obj\Debug\net5.0\string-methods.AssemblyInfoInputs.cache
+D:\Csharp Projects\Patika-csharp101\string-methods\obj\Debug\net5.0\string-methods.AssemblyInfo.cs
+D:\Csharp Projects\Patika-csharp101\string-methods\obj\Debug\net5.0\string-methods.csproj.CoreCompileInputs.cache
+D:\Csharp Projects\Patika-csharp101\string-methods\obj\Debug\net5.0\string-methods.dll
+D:\Csharp Projects\Patika-csharp101\string-methods\obj\Debug\net5.0\ref\string-methods.dll
+D:\Csharp Projects\Patika-csharp101\string-methods\obj\Debug\net5.0\string-methods.pdb
+D:\Csharp Projects\Patika-csharp101\string-methods\obj\Debug\net5.0\string-methods.genruntimeconfig.cache
