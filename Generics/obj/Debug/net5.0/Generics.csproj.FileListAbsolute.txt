@@ -1,0 +1,16 @@
+D:\Csharp Projects\Patika-csharp101\Generics\bin\Debug\net5.0\Generics.exe
+D:\Csharp Projects\Patika-csharp101\Generics\bin\Debug\net5.0\Generics.deps.json
+D:\Csharp Projects\Patika-csharp101\Generics\bin\Debug\net5.0\Generics.runtimeconfig.json
+D:\Csharp Projects\Patika-csharp101\Generics\bin\Debug\net5.0\Generics.runtimeconfig.dev.json
+D:\Csharp Projects\Patika-csharp101\Generics\bin\Debug\net5.0\Generics.dll
+D:\Csharp Projects\Patika-csharp101\Generics\bin\Debug\net5.0\ref\Generics.dll
+D:\Csharp Projects\Patika-csharp101\Generics\bin\Debug\net5.0\Generics.pdb
+D:\Csharp Projects\Patika-csharp101\Generics\obj\Debug\net5.0\Generics.csproj.AssemblyReference.cache
+D:\Csharp Projects\Patika-csharp101\Generics\obj\Debug\net5.0\Generics.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp Projects\Patika-csharp101\Generics\obj\Debug\net5.0\Generics.AssemblyInfoInputs.cache
+D:\Csharp Projects\Patika-csharp101\Generics\obj\Debug\net5.0\Generics.AssemblyInfo.cs
+D:\Csharp Projects\Patika-csharp101\Generics\obj\Debug\net5.0\Generics.csproj.CoreCompileInputs.cache
+D:\Csharp Projects\Patika-csharp101\Generics\obj\Debug\net5.0\Generics.dll
+D:\Csharp Projects\Patika-csharp101\Generics\obj\Debug\net5.0\ref\Generics.dll
+D:\Csharp Projects\Patika-csharp101\Generics\obj\Debug\net5.0\Generics.pdb
+D:\Csharp Projects\Patika-csharp101\Generics\obj\Debug\net5.0\Generics.genruntimeconfig.cache
