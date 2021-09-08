@@ -1,0 +1,16 @@
+D:\Csharp Projects\Patika-csharp101\Koleksiyonlar-Soru-3\bin\Debug\net5.0\Koleksiyonlar-Soru-3.exe
+D:\Csharp Projects\Patika-csharp101\Koleksiyonlar-Soru-3\bin\Debug\net5.0\Koleksiyonlar-Soru-3.deps.json
+D:\Csharp Projects\Patika-csharp101\Koleksiyonlar-Soru-3\bin\Debug\net5.0\Koleksiyonlar-Soru-3.runtimeconfig.json
+D:\Csharp Projects\Patika-csharp101\Koleksiyonlar-Soru-3\bin\Debug\net5.0\Koleksiyonlar-Soru-3.runtimeconfig.dev.json
+D:\Csharp Projects\Patika-csharp101\Koleksiyonlar-Soru-3\bin\Debug\net5.0\Koleksiyonlar-Soru-3.dll
+D:\Csharp Projects\Patika-csharp101\Koleksiyonlar-Soru-3\bin\Debug\net5.0\ref\Koleksiyonlar-Soru-3.dll
+D:\Csharp Projects\Patika-csharp101\Koleksiyonlar-Soru-3\bin\Debug\net5.0\Koleksiyonlar-Soru-3.pdb
+D:\Csharp Projects\Patika-csharp101\Koleksiyonlar-Soru-3\obj\Debug\net5.0\Koleksiyonlar-Soru-3.csproj.AssemblyReference.cache
+D:\Csharp Projects\Patika-csharp101\Koleksiyonlar-Soru-3\obj\Debug\net5.0\Koleksiyonlar-Soru-3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp Projects\Patika-csharp101\Koleksiyonlar-Soru-3\obj\Debug\net5.0\Koleksiyonlar-Soru-3.AssemblyInfoInputs.cache
+D:\Csharp Projects\Patika-csharp101\Koleksiyonlar-Soru-3\obj\Debug\net5.0\Koleksiyonlar-Soru-3.AssemblyInfo.cs
+D:\Csharp Projects\Patika-csharp101\Koleksiyonlar-Soru-3\obj\Debug\net5.0\Koleksiyonlar-Soru-3.csproj.CoreCompileInputs.cache
+D:\Csharp Projects\Patika-csharp101\Koleksiyonlar-Soru-3\obj\Debug\net5.0\Koleksiyonlar-Soru-3.dll
+D:\Csharp Projects\Patika-csharp101\Koleksiyonlar-Soru-3\obj\Debug\net5.0\ref\Koleksiyonlar-Soru-3.dll
+D:\Csharp Projects\Patika-csharp101\Koleksiyonlar-Soru-3\obj\Debug\net5.0\Koleksiyonlar-Soru-3.pdb
+D:\Csharp Projects\Patika-csharp101\Koleksiyonlar-Soru-3\obj\Debug\net5.0\Koleksiyonlar-Soru-3.genruntimeconfig.cache
