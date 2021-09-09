@@ -22,11 +22,12 @@ namespace class_instance_field_property
             //internal
             //protected
             
-            Calisan calisan1 = new Calisan();
+            /*Calisan calisan1 = new Calisan();
             calisan1.Ad = "Ulaş Doğan";
             calisan1.Soyad = "Deniz";
             calisan1.No = 213865;
-            calisan1.Departman = "IT";
+            calisan1.Departman = "IT";*/
+            Calisan calisan1 = new Calisan("Ulaş Doğan", "Deniz", 213865, "IT");
 
             calisan1.BilgileriGetir();
             Console.WriteLine();
@@ -47,6 +48,19 @@ namespace class_instance_field_property
         public string Soyad;
         public int No;
         public string Departman;
+
+        public Calisan(string Ad, string Soyad, int No, string Departman)
+        {
+            this.Ad = Ad;
+            this.Soyad = Soyad;
+            this.No = No;
+            this.Departman = Departman;
+
+        }
+        public Calisan()
+        {
+            
+        }
 
         public void BilgileriGetir(){
             
