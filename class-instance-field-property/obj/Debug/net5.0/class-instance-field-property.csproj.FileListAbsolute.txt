@@ -1,0 +1,16 @@
+D:\Csharp Projects\Patika-csharp101\class-instance-field-property\bin\Debug\net5.0\class-instance-field-property.exe
+D:\Csharp Projects\Patika-csharp101\class-instance-field-property\bin\Debug\net5.0\class-instance-field-property.deps.json
+D:\Csharp Projects\Patika-csharp101\class-instance-field-property\bin\Debug\net5.0\class-instance-field-property.runtimeconfig.json
+D:\Csharp Projects\Patika-csharp101\class-instance-field-property\bin\Debug\net5.0\class-instance-field-property.runtimeconfig.dev.json
+D:\Csharp Projects\Patika-csharp101\class-instance-field-property\bin\Debug\net5.0\class-instance-field-property.dll
+D:\Csharp Projects\Patika-csharp101\class-instance-field-property\bin\Debug\net5.0\ref\class-instance-field-property.dll
+D:\Csharp Projects\Patika-csharp101\class-instance-field-property\bin\Debug\net5.0\class-instance-field-property.pdb
+D:\Csharp Projects\Patika-csharp101\class-instance-field-property\obj\Debug\net5.0\class-instance-field-property.csproj.AssemblyReference.cache
+D:\Csharp Projects\Patika-csharp101\class-instance-field-property\obj\Debug\net5.0\class-instance-field-property.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp Projects\Patika-csharp101\class-instance-field-property\obj\Debug\net5.0\class-instance-field-property.AssemblyInfoInputs.cache
+D:\Csharp Projects\Patika-csharp101\class-instance-field-property\obj\Debug\net5.0\class-instance-field-property.AssemblyInfo.cs
+D:\Csharp Projects\Patika-csharp101\class-instance-field-property\obj\Debug\net5.0\class-instance-field-property.csproj.CoreCompileInputs.cache
+D:\Csharp Projects\Patika-csharp101\class-instance-field-property\obj\Debug\net5.0\class-instance-field-property.dll
+D:\Csharp Projects\Patika-csharp101\class-instance-field-property\obj\Debug\net5.0\ref\class-instance-field-property.dll
+D:\Csharp Projects\Patika-csharp101\class-instance-field-property\obj\Debug\net5.0\class-instance-field-property.pdb
+D:\Csharp Projects\Patika-csharp101\class-instance-field-property\obj\Debug\net5.0\class-instance-field-property.genruntimeconfig.cache
