@@ -1,4 +1,4 @@
-### Patika.dev C# 101 Patikası 
+### [Patika.dev](patika.dev) C# 101 Patikası 
 >  **Bu patika** Bu patika C# programlama dilini, etkin bir şekilde kullanmak ve temel yapıları öğrenmek için hazırlandı.
 ---
 1. **[Console Programming](https://github.com/ulasdgndnz/PatikaDev-CSharp101/tree/main/console-programlama)**
